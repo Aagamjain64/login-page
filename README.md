@@ -72,3 +72,5 @@ This app does not use any authentication logic like hashing or session managemen
 Ideal for understanding how data flows from a form into a database using Express and Mongoose.
 
 Feel free to enhance it further by adding validations, password hashing, or integrating Passport.js!
+
+The entire code is inside a zip file.
